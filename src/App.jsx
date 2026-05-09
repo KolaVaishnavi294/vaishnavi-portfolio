@@ -8,7 +8,6 @@ import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 import ScrollProgress from "./components/ScrollProgress"
 import BackToTop from "./components/BackToTop"
-import Education from "./components/Education"
 import Certifications from "./components/Certifications"
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Education />
       <Skills />
       <Projects />
       <Experience />
