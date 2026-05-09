@@ -41,16 +41,6 @@ Machine learning model for predicting water quality using regression algorithms.
 
 ---
 
-## Author
-
-### Jai Durga Vaishnavi Kola
-
-- GitHub: https://github.com/KolaVaishnavi294
-- LinkedIn: https://www.linkedin.com/in/jai-durga-vaishnavi-kola-996174291
-- Email: kola.vaishnavi88@gmail.com
-
----
-
 ## Run Locally
 
 ```bash
