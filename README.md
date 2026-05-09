@@ -40,6 +40,11 @@ AI-powered recommendation system using Machine Learning techniques.
 Machine learning model for predicting water quality using regression algorithms.
 
 ---
+## Live Demo
+
+https://vaishnavi-portfolio-gray-one.vercel.app
+
+---
 
 ## Run Locally
 
